@@ -9,7 +9,7 @@ import "remix_tests.sol";
 // Although it may fail compilation in 'Solidity Compiler' plugin
 // But it will work fine in 'Solidity Unit Testing' plugin
 // import "remix_accounts.sol";
-import "../mycontracts/calc.sol";
+import "./calc.sol";
 
 uint8 constant ITERATIONS = 25;
 

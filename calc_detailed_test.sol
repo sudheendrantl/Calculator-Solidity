@@ -10,8 +10,8 @@ import "remix_tests.sol";
 // But it will work fine in 'Solidity Unit Testing' plugin
 // import "remix_accounts.sol";
 import "hardhat/console.sol";
-import "../mycontracts/calc.sol";
-import "../mycontracts/caseresources.sol";
+import "./calc.sol";
+import "./caseresources.sol";
 
 bool constant isLoggingOn = true;
 uint constant iterations = 25;

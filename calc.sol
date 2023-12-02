@@ -2,7 +2,6 @@
 
 pragma solidity ^0.8 ; // Using Solidity 8 
 
-import "hardhat/console.sol";
 import "./caseresources.sol";
 
 contract Calc{
